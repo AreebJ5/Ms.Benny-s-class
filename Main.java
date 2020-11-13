@@ -5,7 +5,7 @@ class Main {
  Sting[] studentsNames = new String[15];
  //This is where my scanner is 
  Scanner scan = new Scanner(System.in);
- 
+ for (int i = 0; i < studentsNames.length; i++)
  
 
 
