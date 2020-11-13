@@ -11,7 +11,7 @@ class Main {
  int i = 0;
  while (numSeats [i] <= studentNames.length) 
  System.out.println( studentNames [i] + " please sit in seat " + numSeats [i]);
- 
+ i++;
 
   }
 }
