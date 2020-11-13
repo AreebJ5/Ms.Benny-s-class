@@ -6,7 +6,7 @@ class Main {
  //This is where my scanner is 
  Scanner scan = new Scanner(System.in);
  for (int i = 0; i < studentsNames.length; i++)
- 
+ System.out.println("Enter your name below.");
 
 
 
